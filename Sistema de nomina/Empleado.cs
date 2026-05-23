@@ -3,8 +3,8 @@ namespace Sistema_de_nomina
 {   
     public abstract class Empleado
     {
-        private String apellidoPaterno { get; set; }
-        private String numeroSeguroSocial { get; set; }
+        public string apellidoPaterno { get; set; }
+        public string numeroSeguroSocial { get; set; }
 
         public Empleado(string apellidoPaterno, string numeroSeguroSocial)
         {
@@ -12,11 +12,12 @@ namespace Sistema_de_nomina
             this.numeroSeguroSocial = numeroSeguroSocial;
         }
 
-        public abstract decimal Ingresos();
-
-        public override string ToString()
+        public abstract decimal PagoEmpleado();
+        public abstract void Actualizar();
+        public virtual void MostrarDatos() 
         {
-            return "Object";
+            Console.WriteLine($"Apellido paterno : {apellidoPaterno}");
+            Console.WriteLine($"Numero de Seguro Social : {numeroSeguroSocial}");
         }
 
     }
