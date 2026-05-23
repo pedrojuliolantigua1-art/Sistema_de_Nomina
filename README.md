@@ -50,7 +50,7 @@ y esta a su vez hereda de la clase abstracta Empleado.
 primero se busca por el apellido paterno o por el numero de seguro social, que son las unicas caracteristicas que tienen en comun, todos los empleados y luego se actualizan sus datos para recalcular nuevamente la nomina semanal.
 <img width="505" height="224" alt="image" src="https://github.com/user-attachments/assets/eebd6739-67c1-4f4c-989c-9ca6ed6f9631" />
 
-# Aqui ya se visualiza en el reporte a el empleado actualizado
+### Aqui ya se visualiza en el reporte a el empleado actualizado
 <img width="517" height="182" alt="image" src="https://github.com/user-attachments/assets/42adb123-5931-4cd4-846d-a130a1ea29b6" />
 
 
