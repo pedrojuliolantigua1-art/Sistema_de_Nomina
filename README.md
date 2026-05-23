@@ -42,15 +42,15 @@ y esta a su vez hereda de la clase abstracta Empleado.
 ### Opcion 4 Agregar empleado Asalariado por Comision
 <img width="399" height="143" alt="image" src="https://github.com/user-attachments/assets/c2a2e14d-00c3-4162-8ffb-b9ed6182f9bd" />
 
-### Opcion 5 Mostrar el reportes de todos los empleados 
+### Opcion 5 Mostrar el reportes de todos los empleados, donde se visualiza toda su informacion y su pago semanal
 <img width="646" height="934" alt="image" src="https://github.com/user-attachments/assets/8a908ca3-67fa-4b01-b986-3d54d84b090a" />
 
+
 ### Opcion 6 Actualizar un empleado
-primero se busca por el apellido paterno o por el numero de seguro social, que son las unicas caracteristicas que tienen en comun, todos los empleados y luego se actualizan 
-sus datos para recalcular nuevamente la nomina semanal.
+primero se busca por el apellido paterno o por el numero de seguro social, que son las unicas caracteristicas que tienen en comun, todos los empleados y luego se actualizan sus datos para recalcular nuevamente la nomina semanal.
 <img width="505" height="224" alt="image" src="https://github.com/user-attachments/assets/eebd6739-67c1-4f4c-989c-9ca6ed6f9631" />
 
-Aqui ya se visualiza en el reporte a el empleado actualizado
+# Aqui ya se visualiza en el reporte a el empleado actualizado
 <img width="517" height="182" alt="image" src="https://github.com/user-attachments/assets/42adb123-5931-4cd4-846d-a130a1ea29b6" />
 
 
